@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vahab</h1>
+<h1 align="center">I'm Vahab Mehdiyev</h1>
 <h3 align="center">Python Developer</h3>
 
 - 🌱 I’m currently learning **Django**
