@@ -1,9 +1,9 @@
 <h1 align="center">I'm Vahab Mehdiyev</h1>
 <h3 align="center">Python Developer</h3>
 
-- 🌱 I’m currently learning **Django**
+-I’m currently learning **Django**
 
-- 📫 How to reach me **vahab3089@gmail.com**
+-How to reach me **vahab3089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
